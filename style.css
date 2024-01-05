@@ -125,7 +125,7 @@ body{
 
 /*media */
 @media screen and  (max-width: 767.98px){
- .header-img{ 
+ .header-imgg{ 
     display:none;
   }
   .service-container-2{
